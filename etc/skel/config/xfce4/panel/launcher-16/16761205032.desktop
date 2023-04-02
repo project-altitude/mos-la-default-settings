@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dash
+Comment=Have an overview of all your open programs
+Exec=xfdashboard
+Icon=preferences-desktop-virtual
+Path=
+Terminal=false
+StartupNotify=false
