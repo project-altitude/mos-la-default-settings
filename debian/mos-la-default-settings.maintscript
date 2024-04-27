@@ -1,1 +1,0 @@
-rm_conffile /etc/skel/.config/gtk-3.0/gtk.css 15.04.0
