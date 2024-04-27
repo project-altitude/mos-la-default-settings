@@ -5,3 +5,4 @@ This project is a dependency of mos-lite-meta and installs our custom settings f
 
   * mos-lite-default-settings
 
+The current development series of MountainOS is *asgard*. Please backport any changes in *main* to *asgard*
