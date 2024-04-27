@@ -5,3 +5,4 @@ This project is a dependency of mos-lite-meta and installs our custom settings f
 
   * mos-lite-default-settings
 
+This branch holds the configuration settings for MountainOS Lite "asgard", the second development series of MountainOS 1.0
